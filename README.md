@@ -46,6 +46,10 @@
 
 
 ### 入门参考论文
+- Physically-plausible illumination distribution estimation
+- When Color Constancy Goes Wrong:  Correcting Improperly White-Balanced Images
+- Deep White-Balance Editing
+- ALL-E: Aesthetics-guided Low-light Image Enhancement
 
 ### 领域知名实验室
 
