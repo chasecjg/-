@@ -51,12 +51,26 @@
 ## 人像Relighting
 ### 什么是人像Relighting
 
-- 概念
-- 示例展示
+- 概念：人像Relighting是一种通过调整人像照片的光照条件，以实现不同光照效果的技术。它可以帮助修复拍摄时因光照不足或不理想导致的问题，甚至创造出全新的光影效果，增强照片的艺术感和真实感。这种技术可以应用于多种场景，包括摄影后期处理、影视特效制作、虚拟现实和增强现实、游戏开发以及广告与商业图像制作等‌。
+- 示例展示：
+
+
+
+https://github.com/user-attachments/assets/086aaf1c-55fc-415c-9ecd-205298cbbda8
+
+
 
 ### 入门参考论文
++ Zhou H, Hadap S, Sunkavalli K, et al. : "*Deep Single-Image Portrait Relighting*" ICCV (2019) [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Deep_Single-Image_Portrait_Relighting_ICCV_2019_paper.pdf) [[code]](https://zhhoper.github.io/dpr.html)
++ Hou A, Zhang Z, Sarkis M, et al. : "*Towards high fidelity face relighting with realistic shadows*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Towards_High_Fidelity_Face_Relighting_With_Realistic_Shadows_CVPR_2021_paper.pdf) [[code]](https://github.com/andrewhou1/Shadow-Mask-Face-Relighting)
++ Hou A, Sarkis M, Bi N, et al. : "*Face Relighting with Geometrically Consistent Shadows*" CVPR (2022) [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hou_Face_Relighting_With_Geometrically_Consistent_Shadows_CVPR_2022_paper.pdf) [[code]](https://github.com/andrewhou1/GeomConsistentFR)
++ Ponglertnapakorn P, Tritrong N, Suwajanakorn S: "*DiFaReli: Diffusion Face Relighting*" ICCV (2023) [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ponglertnapakorn_DiFaReli_Diffusion_Face_Relighting_ICCV_2023_paper.pdf) [[code]](https://diffusion-face-relighting.github.io)
 
-### 领域知名实验室
+### 交互应用
++ IC-Light [[code]](https://github.com/lllyasviel/IC-Light)
++ LuminaBrush [[code]](https://github.com/lllyasviel/LuminaBrush)
++ ClipDrop [[web]](https://clipdrop.co/relight)
+
 
 ## 颜色恒常性
 
