@@ -25,20 +25,56 @@
 
 - 正在进行的研究：美平衡，relighting，颜色恒常性
 
-## 颜色恒常性背景
+## 必备技能
+- python教程：
+  - [python快速入门](https://www.bilibili.com/video/BV14v411V7Xe/?spm_id_from=333.1387.upload.video_card.click)
+  - [python核心编程](https://www.bilibili.com/video/BV1AN4y137uT/?spm_id_from=333.1387.upload.video_card.click)
+  - [python高阶](https://www.bilibili.com/video/BV1FS4y1v7CW/?spm_id_from=333.1387.upload.video_card.click)
+- pytorch教程：
+  - [入门](https://space.bilibili.com/18161609/lists/48290?type=season)
+  - [入门](https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all.click)
+- 深度学习教程：[【機器學習2021】(中文版)](https://www.youtube.com/playlist?list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J)
+- 论文写作相关：[论文写作、阅读指导](https://pan.baidu.com/s/1_h2g5WFKUPWct-7fCGIAMg?pwd=ysmx ), 提取码:[ysmx]
+## 美平衡
+### 什么是美平衡
+
+- 概念
+- 示例展示
+
+### 入门参考论文
+
+### 领域知名实验室
+
+
+
+
+## 人像Relighting
+### 什么是人像Relighting
+
+- 概念
+- 示例展示
+
+### 入门参考论文
+
+### 领域知名实验室
+
+## 颜色恒常性
+
+### 什么是颜色恒常性
 + 定义：相机拍摄的原始RAW图像会受到外界非中性光影响，导致拍摄图像发生色偏，颜色恒常性就是消除色偏现象保持物体本来颜色的过程。
 + 步骤：光照估计：估计出物体表面的光照颜色；颜色矫正，去除光照色偏影响。
 + 示意图如下所示：<img src="https://github.com/ChunxiaoLe/CCC/blob/main/%E9%A2%9C%E8%89%B2%E6%81%92%E5%B8%B8%E6%80%A7%E8%83%8C%E6%99%AF.png" width = "550" height = "300" alt="" align=center />
 
-## 实验室自研颜色恒常性代码库平台Anole[[link]](https://github.com/YuxiangTang/Anole)
-+ 目的：提供规范化的图像处理框架；提供稳定、公平、可比较的平台；补充RAW图像处理缺口.
-+ 主要模块：
-  + RAW图像处理：RAW图像在相机前后端的处理功能。
-  + 颜色恒常性模型：在同一套框架下提供流行和常用颜色恒常性模型。
-  + 模型训练和验证：规范化颜色恒常性训练、测试、评价流程。
-  + 实验环境配置：Hydra 和可视化技术生成报告来管理实验。
+### 实验室自研代码平台
+- Anole[[link]](https://github.com/YuxiangTang/Anole)
+- 目的：提供规范化的图像处理框架；提供稳定、公平、可比较的平台；补充RAW图像处理缺口.
+- 主要模块：
+  - RAW图像处理：RAW图像在相机前后端的处理功能。
+  - 颜色恒常性模型：在同一套框架下提供流行和常用颜色恒常性模型。
+  - 模型训练和验证：规范化颜色恒常性训练、测试、评价流程。
+  - 实验环境配置：Hydra 和可视化技术生成报告来管理实验。
 
-## 组内已投中顶会顶刊：
+### 组内已投中顶会顶刊：
 + Yuxiang Tang, Xuejing Kang, Chunxiao Li, Zhaowen Lin, Anlong Ming*, Transfer Learning for Color Constancy via Statistic Perspective, AAAI 2022, 人工智能领域顶会. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/20135/19894)  [[code]](https://github.com/YuxiangTang/TLCC)
 + Zhifeng Zhang, Xuejing Kang, Anlong Ming*, Domain Adversarial Learning for Color Constancy,IJCAI 2022，人工智能领域顶会.  [[pdf]](https://www.ijcai.org/proceedings/2022/0236.pdf)  [[code]](https://github.com/Zhi-Feng-Zhang/DALCC)
 + Chunxiao Li, Xuejing Kang, Zhifeng Zhang, Anlong Ming*, SWBNet: A Stable White Balance Network for sRGB images, AAAI 2023, 人工智能领域顶会. [[pdf]](https://github.com/ChunxiaoLe/SWBNet/blob/master/paper/9786.ChunxiaoLi.pdf) [[code]](https://github.com/ChunxiaoLe/SWBNet)
@@ -46,7 +82,7 @@
 + Chenghao Dong, Xuejing Kang, Anlong Ming, ICDA: Illumination-Coupled Domain Adaptation Framework for Unsupervised Nighttime Semantic Segmentation,IJCAI 2023, 人工智能领域顶会.
 + 在投3篇
 
-## Demos:
+### Demos:
 
 https://github.com/ChunxiaoLe/CCC_Tutorial/assets/58202703/4273e625-b831-4371-96ce-bc33d2bb1d19
 
@@ -62,7 +98,7 @@ https://github.com/ChunxiaoLe/CCC_Tutorial/assets/58202703/7567d5a1-82a4-4f1d-a7
 
 
 
-## 其它资料：
+### 其它资料：
 + *博客：RAW图像到sRGB图像的全过程*  [[code]](https://ridiqulous.com/process-raw-data-using-matlab-and-dcraw/comment-page-3/#comments)
 + *公开课：RAW图像处理全流程代码* [[code]](https://nbviewer.jupyter.org/github/yourwanghao/CMUComputationalPhotography/blob/master/class2/notebook2.ipynb)
 + 经典论文：Hu, Yuanming and Wang, Baoyuan and Lin, Stephen: "*Fc4: Fully convolutional color constancy with confidence-weighted pooling*" CVPR (2017) [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf) [[code]](https://github.com/yuanming-hu/fc4)
@@ -81,17 +117,17 @@ https://github.com/ChunxiaoLe/CCC_Tutorial/assets/58202703/7567d5a1-82a4-4f1d-a7
 | Cube+ | 单光照+双光照数据集、立方蜘蛛 | 1700+张图像 | 评价单光照和双光照颜色恒常性性能 | [link](https://ipg.fer.hr/ipg/resources/color_constancy) |
 | LSMI | 大规模多光照数据集 |7,486张图像 | 评价多光照颜色恒常性性能 | [link](https://github.com/DY112/LSMI-dataset) |
 
-## 理论知识
+### 理论知识
 + "*李宏毅机器学习课程.*" 哔哩哔哩 [[link]](https://www.bilibili.com/video/BV1JE411g7XF?from=search&seid=16114573361443816126)
 
-## 动手实践
+### 动手实践
 + "*动手学深度学习(PyTorch版).*" GitHub [[link]](https://tangshusen.me/Dive-into-DL-PyTorch/#/)
 + "*深度学习框架PyTorch：入门与实践.*" GitHub [[link]](https://github.com/chenyuntc/pytorch-book)
 
 
 
 
-## 其它工具
+### 其它工具
 + "*Zotero.*" 论文整理工具 [[link]](https://www.zotero.org/)
 + "*connectedpapers.*" 论文追溯工具 [[link]](https://www.connectedpapers.com/)
 + "*Paperswithcode.*" 论文代码查找工具 [[link]](https://paperswithcode.com/)
