@@ -88,14 +88,6 @@ https://github.com/user-attachments/assets/086aaf1c-55fc-415c-9ecd-205298cbbda8
   - 模型训练和验证：规范化颜色恒常性训练、测试、评价流程。
   - 实验环境配置：Hydra 和可视化技术生成报告来管理实验。
 
-### 组内已投中顶会顶刊：
-+ Yuxiang Tang, Xuejing Kang, Chunxiao Li, Zhaowen Lin, Anlong Ming*, Transfer Learning for Color Constancy via Statistic Perspective, AAAI 2022, 人工智能领域顶会. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/20135/19894)  [[code]](https://github.com/YuxiangTang/TLCC)
-+ Zhifeng Zhang, Xuejing Kang, Anlong Ming*, Domain Adversarial Learning for Color Constancy,IJCAI 2022，人工智能领域顶会.  [[pdf]](https://www.ijcai.org/proceedings/2022/0236.pdf)  [[code]](https://github.com/Zhi-Feng-Zhang/DALCC)
-+ Chunxiao Li, Xuejing Kang, Zhifeng Zhang, Anlong Ming*, SWBNet: A Stable White Balance Network for sRGB images, AAAI 2023, 人工智能领域顶会. [[pdf]](https://github.com/ChunxiaoLe/SWBNet/blob/master/paper/9786.ChunxiaoLi.pdf) [[code]](https://github.com/ChunxiaoLe/SWBNet)
-+ Chunxiao Li, Xuejing Kang, Anlong Ming*, WBFlow: Few-shot White Balance for sRGB Images via Reversible Neural Flows，IJCAI 2023, 人工智能领域顶会.
-+ Chenghao Dong, Xuejing Kang, Anlong Ming, ICDA: Illumination-Coupled Domain Adaptation Framework for Unsupervised Nighttime Semantic Segmentation,IJCAI 2023, 人工智能领域顶会.
-+ 在投3篇
-
 ### Demos:
 
 https://github.com/ChunxiaoLe/CCC_Tutorial/assets/58202703/4273e625-b831-4371-96ce-bc33d2bb1d19
@@ -130,4 +122,13 @@ https://github.com/ChunxiaoLe/CCC_Tutorial/assets/58202703/7567d5a1-82a4-4f1d-a7
 | NUS8 | 单光照+8相机数据集| 1700+图像 | 评价单光照颜色恒常性性能、跨相机性能| [link](https://cvil.eecs.yorku.ca/projects/public_html/illuminant/illuminant.html) |
 | Cube+ | 单光照+双光照数据集、立方蜘蛛 | 1700+张图像 | 评价单光照和双光照颜色恒常性性能 | [link](https://ipg.fer.hr/ipg/resources/color_constancy) |
 | LSMI | 大规模多光照数据集 |7,486张图像 | 评价多光照颜色恒常性性能 | [link](https://github.com/DY112/LSMI-dataset) |
+
+
+## 组内已投中顶会顶刊：
++ Yuxiang Tang, Xuejing Kang, Chunxiao Li, Zhaowen Lin, Anlong Ming*, Transfer Learning for Color Constancy via Statistic Perspective, AAAI 2022, 人工智能领域顶会. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/20135/19894)  [[code]](https://github.com/YuxiangTang/TLCC)
++ Zhifeng Zhang, Xuejing Kang, Anlong Ming*, Domain Adversarial Learning for Color Constancy,IJCAI 2022，人工智能领域顶会.  [[pdf]](https://www.ijcai.org/proceedings/2022/0236.pdf)  [[code]](https://github.com/Zhi-Feng-Zhang/DALCC)
++ Chunxiao Li, Xuejing Kang, Zhifeng Zhang, Anlong Ming*, SWBNet: A Stable White Balance Network for sRGB images, AAAI 2023, 人工智能领域顶会. [[pdf]](https://github.com/ChunxiaoLe/SWBNet/blob/master/paper/9786.ChunxiaoLi.pdf) [[code]](https://github.com/ChunxiaoLe/SWBNet)
++ Chunxiao Li, Xuejing Kang, Anlong Ming*, WBFlow: Few-shot White Balance for sRGB Images via Reversible Neural Flows，IJCAI 2023, 人工智能领域顶会.
++ Chenghao Dong, Xuejing Kang, Anlong Ming, ICDA: Illumination-Coupled Domain Adaptation Framework for Unsupervised Nighttime Semantic Segmentation,IJCAI 2023, 人工智能领域顶会.
++ 在投3篇
 
