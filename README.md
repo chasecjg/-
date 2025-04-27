@@ -131,20 +131,3 @@ https://github.com/ChunxiaoLe/CCC_Tutorial/assets/58202703/7567d5a1-82a4-4f1d-a7
 | Cube+ | 单光照+双光照数据集、立方蜘蛛 | 1700+张图像 | 评价单光照和双光照颜色恒常性性能 | [link](https://ipg.fer.hr/ipg/resources/color_constancy) |
 | LSMI | 大规模多光照数据集 |7,486张图像 | 评价多光照颜色恒常性性能 | [link](https://github.com/DY112/LSMI-dataset) |
 
-### 理论知识
-+ "*李宏毅机器学习课程.*" 哔哩哔哩 [[link]](https://www.bilibili.com/video/BV1JE411g7XF?from=search&seid=16114573361443816126)
-
-### 动手实践
-+ "*动手学深度学习(PyTorch版).*" GitHub [[link]](https://tangshusen.me/Dive-into-DL-PyTorch/#/)
-+ "*深度学习框架PyTorch：入门与实践.*" GitHub [[link]](https://github.com/chenyuntc/pytorch-book)
-
-
-
-
-### 其它工具
-+ "*Zotero.*" 论文整理工具 [[link]](https://www.zotero.org/)
-+ "*connectedpapers.*" 论文追溯工具 [[link]](https://www.connectedpapers.com/)
-+ "*Paperswithcode.*" 论文代码查找工具 [[link]](https://paperswithcode.com/)
-+ "*Google colab.*" 免费线上GPU平台，如额外需要线下服务器资源，请联系负责管理GPU的同学 [[link]](https://colab.research.google.com/notebooks/intro.ipynb)
-
-
