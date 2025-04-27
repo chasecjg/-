@@ -39,7 +39,11 @@
 ### 什么是美平衡
 
 - 概念
+  与AWB不同，A-AWB在用户可接受的颜色保真范围内，结合用户的审美偏好和通用颜色美学，进行用户定制的最美图像颜色渲染![image](https://github.com/user-attachments/assets/320d5627-7051-4bcd-9d04-e03ebf5ee89c)
+
 - 示例展示
+  ![image](https://github.com/user-attachments/assets/92d0f7b1-74dd-4fb5-80c1-d1b0dfc7f51b)
+
 
 ### 入门参考论文
 
