@@ -9,7 +9,7 @@
 
 ## 项目组成员
 
-2名老师，一名博士生，3名硕士生
+2名老师，1名博士生，3名硕士生
 
 ## 研究方向
 
@@ -39,17 +39,19 @@
 ### 什么是美平衡
 
 - 概念
-  与AWB不同，A-AWB在用户可接受的颜色保真范围内，结合用户的审美偏好和通用颜色美学，进行用户定制的最美图像颜色渲染![image](https://github.com/user-attachments/assets/320d5627-7051-4bcd-9d04-e03ebf5ee89c)
+  - 白平衡：要理解美平衡，首先要知道什么是白平衡(Auto-White-Balance,AWB)，所谓的白平衡简单理解就是让相机拍摄出来的物体，无论在什么光源场景下，最终所呈现出来的视觉效果都和白光下一样
+  - 美平衡：与AWB不同，A-AWB在用户可接受的颜色保真范围内，结合用户的审美偏好和通用颜色美学，进行用户定制的最美图像颜色渲染
 
 - 示例展示
   ![image](https://github.com/user-attachments/assets/92d0f7b1-74dd-4fb5-80c1-d1b0dfc7f51b)
 
 
 ### 入门参考论文
-- Physically-plausible illumination distribution estimation
-- When Color Constancy Goes Wrong:  Correcting Improperly White-Balanced Images
-- Deep White-Balance Editing
-- ALL-E: Aesthetics-guided Low-light Image Enhancement
+- Deep White-Balance Editing,[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Afifi_Deep_White-Balance_Editing_CVPR_2020_paper.pdf),[[code]](https://github.com/mahmoudnafifi/Deep_White_Balance)
+- A Software Platform for Manipulating the Camera Imaging Pipeline,[[paper]](https://karaimer.github.io/camera-pipeline/paper/Karaimer_Brown_ECCV16.pdf),[[code]](https://karaimer.github.io/camera-pipeline/)
+- When Color Constancy Goes Wrong:  Correcting Improperly White-Balanced Images,[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Afifi_When_Color_Constancy_Goes_Wrong_Correcting_Improperly_White-Balanced_Images_CVPR_2019_paper.pdf),[[code]](https://github.com/mahmoudnafifi/WB_sRGB)
+- ALL-E: Aesthetics-guided Low-light Image Enhancement,[[paper]](https://www.ijcai.org/proceedings/2023/0118.pdf),[[code]](https://github.com/gaoyuanhang/ALL-E)
+- Physically-plausible illumination distribution estimation,[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ershov_Physically-Plausible_Illumination_Distribution_Estimation_ICCV_2023_paper.pdf),[[code]](https://github.com/createcolor/IDE?tab=readme-ov-file)
 
 ### 领域知名实验室
 
