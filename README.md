@@ -71,10 +71,10 @@ https://github.com/user-attachments/assets/086aaf1c-55fc-415c-9ecd-205298cbbda8
 
 
 ### 入门参考论文
-+ Zhou H, Hadap S, Sunkavalli K, et al. : "*Deep Single-Image Portrait Relighting*" ICCV (2019) [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Deep_Single-Image_Portrait_Relighting_ICCV_2019_paper.pdf) [[code]](https://zhhoper.github.io/dpr.html)
-+ Hou A, Zhang Z, Sarkis M, et al. : "*Towards high fidelity face relighting with realistic shadows*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Towards_High_Fidelity_Face_Relighting_With_Realistic_Shadows_CVPR_2021_paper.pdf) [[code]](https://github.com/andrewhou1/Shadow-Mask-Face-Relighting)
-+ Hou A, Sarkis M, Bi N, et al. : "*Face Relighting with Geometrically Consistent Shadows*" CVPR (2022) [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hou_Face_Relighting_With_Geometrically_Consistent_Shadows_CVPR_2022_paper.pdf) [[code]](https://github.com/andrewhou1/GeomConsistentFR)
-+ Ponglertnapakorn P, Tritrong N, Suwajanakorn S: "*DiFaReli: Diffusion Face Relighting*" ICCV (2023) [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ponglertnapakorn_DiFaReli_Diffusion_Face_Relighting_ICCV_2023_paper.pdf) [[code]](https://diffusion-face-relighting.github.io)
++ Zhou H, Hadap S, Sunkavalli K, et al. : "*Deep Single-Image Portrait Relighting*" ICCV (2019) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Deep_Single-Image_Portrait_Relighting_ICCV_2019_paper.pdf) [[code]](https://zhhoper.github.io/dpr.html)
++ Hou A, Zhang Z, Sarkis M, et al. : "*Towards high fidelity face relighting with realistic shadows*" CVPR (2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Towards_High_Fidelity_Face_Relighting_With_Realistic_Shadows_CVPR_2021_paper.pdf) [[code]](https://github.com/andrewhou1/Shadow-Mask-Face-Relighting)
++ Hou A, Sarkis M, Bi N, et al. : "*Face Relighting with Geometrically Consistent Shadows*" CVPR (2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hou_Face_Relighting_With_Geometrically_Consistent_Shadows_CVPR_2022_paper.pdf) [[code]](https://github.com/andrewhou1/GeomConsistentFR)
++ Ponglertnapakorn P, Tritrong N, Suwajanakorn S: "*DiFaReli: Diffusion Face Relighting*" ICCV (2023) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ponglertnapakorn_DiFaReli_Diffusion_Face_Relighting_ICCV_2023_paper.pdf) [[code]](https://diffusion-face-relighting.github.io)
 
 ### 交互应用
 + IC-Light [[code]](https://github.com/lllyasviel/IC-Light)
@@ -89,6 +89,14 @@ https://github.com/user-attachments/assets/086aaf1c-55fc-415c-9ecd-205298cbbda8
 + 步骤：光照估计：估计出物体表面的光照颜色；颜色矫正，去除光照色偏影响。
 + 示意图如下所示：<img src="https://github.com/ChunxiaoLe/CCC/blob/main/%E9%A2%9C%E8%89%B2%E6%81%92%E5%B8%B8%E6%80%A7%E8%83%8C%E6%99%AF.png" width = "550" height = "300" alt="" align=center />
 
+### 入门资料：
+- *博客：RAW图像到sRGB图像的全过程*  [[link]](https://ridiqulous.com/process-raw-data-using-matlab-and-dcraw/comment-page-3/#comments)
+- *公开课：RAW图像处理全流程代码* [[linke]](https://nbviewer.jupyter.org/github/yourwanghao/CMUComputationalPhotography/blob/master/class2/notebook2.ipynb)
+- 经典论文
+  - Hu, Yuanming and Wang, Baoyuan and Lin, Stephen: "*Fc4: Fully convolutional color constancy with confidence-weighted pooling*" CVPR (2017) [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf) [[code]](https://github.com/yuanming-hu/fc4)
+  - Lo Y C, Chang C C, Chiu H C, et al. : "*Clcc: Contrastive learning for color constancy*" CVPR (2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lo_CLCC_Contrastive_Learning_for_Color_Constancy_CVPR_2021_paper.pdf) [[code]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lo_CLCC_Contrastive_Learning_for_Color_Constancy_CVPR_2021_paper.pdf)
+
+  
 ### 实验室自研代码平台
 - Anole[[link]](https://github.com/YuxiangTang/Anole)
 - 目的：提供规范化的图像处理框架；提供稳定、公平、可比较的平台；补充RAW图像处理缺口.
@@ -114,11 +122,6 @@ https://github.com/ChunxiaoLe/CCC_Tutorial/assets/58202703/7567d5a1-82a4-4f1d-a7
 
 
 
-### 其它资料：
-+ *博客：RAW图像到sRGB图像的全过程*  [[code]](https://ridiqulous.com/process-raw-data-using-matlab-and-dcraw/comment-page-3/#comments)
-+ *公开课：RAW图像处理全流程代码* [[code]](https://nbviewer.jupyter.org/github/yourwanghao/CMUComputationalPhotography/blob/master/class2/notebook2.ipynb)
-+ 经典论文：Hu, Yuanming and Wang, Baoyuan and Lin, Stephen: "*Fc4: Fully convolutional color constancy with confidence-weighted pooling*" CVPR (2017) [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf) [[code]](https://github.com/yuanming-hu/fc4)
-+ 经典论文：Lo Y C, Chang C C, Chiu H C, et al. : "*Clcc: Contrastive learning for color constancy*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lo_CLCC_Contrastive_Learning_for_Color_Constancy_CVPR_2021_paper.pdf) [[code]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lo_CLCC_Contrastive_Learning_for_Color_Constancy_CVPR_2021_paper.pdf)
 
 
 
