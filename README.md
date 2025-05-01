@@ -34,7 +34,7 @@
   - [入门](https://space.bilibili.com/18161609/lists/48290?type=season)
   - [入门](https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all.click)
 - 深度学习教程：[【機器學習2021】(中文版)](https://www.youtube.com/playlist?list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J)
-- 论文写作相关：[论文写作、阅读指导](https://pan.baidu.com/s/1_h2g5WFKUPWct-7fCGIAMg?pwd=ysmx ), 提取码:[ysmx]
+- 论文写作相关：[论文写作、阅读指导、常用工具](https://pan.baidu.com/s/1_h2g5WFKUPWct-7fCGIAMg?pwd=ysmx ), 提取码:[ysmx]
 ## 美平衡
 ### 什么是美平衡
 
