@@ -43,8 +43,10 @@
   - 美平衡：与AWB不同，A-AWB在用户可接受的颜色保真范围内，结合用户的审美偏好和通用颜色美学，进行用户定制的最美图像颜色渲染
 
 - 示例展示
-  ![image](https://github.com/user-attachments/assets/92d0f7b1-74dd-4fb5-80c1-d1b0dfc7f51b)
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/92d0f7b1-74dd-4fb5-80c1-d1b0dfc7f51b" alt="image" />
+</div>
 
 ### 入门参考论文
 - Deep White-Balance Editing,[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Afifi_Deep_White-Balance_Editing_CVPR_2020_paper.pdf),[[code]](https://github.com/mahmoudnafifi/Deep_White_Balance)
@@ -65,9 +67,9 @@
 - 示例展示：
 
 
-
-https://github.com/user-attachments/assets/086aaf1c-55fc-415c-9ecd-205298cbbda8
-
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/086aaf1c-55fc-415c-9ecd-205298cbbda8" controls width="600"></video>
+</div>
 
 
 ### 入门参考论文
@@ -87,7 +89,12 @@ https://github.com/user-attachments/assets/086aaf1c-55fc-415c-9ecd-205298cbbda8
 ### 什么是颜色恒常性
 + 定义：相机拍摄的原始RAW图像会受到外界非中性光影响，导致拍摄图像发生色偏，颜色恒常性就是消除色偏现象保持物体本来颜色的过程。
 + 步骤：光照估计：估计出物体表面的光照颜色；颜色矫正，去除光照色偏影响。
-+ 示意图如下所示：<img src="https://github.com/ChunxiaoLe/CCC/blob/main/%E9%A2%9C%E8%89%B2%E6%81%92%E5%B8%B8%E6%80%A7%E8%83%8C%E6%99%AF.png" width = "550" height = "300" alt="" align=center />
++ 示意图如下所示：
+
+
+<div align="center">
+  <img src="https://github.com/ChunxiaoLe/CCC/blob/main/%E9%A2%9C%E8%89%B2%E6%81%92%E5%B8%B8%E6%80%A7%E8%83%8C%E6%99%AF.png?raw=true" width="550" height="300" alt=""/>
+</div>
 
 ### 入门资料：
 - *博客：RAW图像到sRGB图像的全过程*  [[link]](https://ridiqulous.com/process-raw-data-using-matlab-and-dcraw/comment-page-3/#comments)
@@ -108,15 +115,16 @@ https://github.com/user-attachments/assets/086aaf1c-55fc-415c-9ecd-205298cbbda8
 
 ### Demos:
 
-https://github.com/ChunxiaoLe/CCC_Tutorial/assets/58202703/4273e625-b831-4371-96ce-bc33d2bb1d19
+
+<div align="center">
+  <video src="https://github.com/ChunxiaoLe/CCC_Tutorial/assets/58202703/4273e625-b831-4371-96ce-bc33d2bb1d19" controls width="600"></video>
+</div>
 
 
 
-
-
-
-https://github.com/ChunxiaoLe/CCC_Tutorial/assets/58202703/7567d5a1-82a4-4f1d-a76e-2dc86cd2efe2
-
+<div align="center">
+  <video src="https://github.com/ChunxiaoLe/CCC_Tutorial/assets/58202703/7567d5a1-82a4-4f1d-a76e-2dc86cd2efe2" controls width="600"></video>
+</div>
 
 
 
