@@ -98,7 +98,7 @@
 
 ### 入门资料：
 - *博客：RAW图像到sRGB图像的全过程*  [[link]](https://ridiqulous.com/process-raw-data-using-matlab-and-dcraw/comment-page-3/#comments)
-- *公开课：RAW图像处理全流程代码* [[linke]](https://nbviewer.jupyter.org/github/yourwanghao/CMUComputationalPhotography/blob/master/class2/notebook2.ipynb)
+- *公开课：RAW图像处理全流程代码* [[link]](https://nbviewer.jupyter.org/github/yourwanghao/CMUComputationalPhotography/blob/master/class2/notebook2.ipynb)
 - 经典论文
   - Hu, Yuanming and Wang, Baoyuan and Lin, Stephen: "*Fc4: Fully convolutional color constancy with confidence-weighted pooling*" CVPR (2017) [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf) [[code]](https://github.com/yuanming-hu/fc4)
   - Lo Y C, Chang C C, Chiu H C, et al. : "*Clcc: Contrastive learning for color constancy*" CVPR (2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lo_CLCC_Contrastive_Learning_for_Color_Constancy_CVPR_2021_paper.pdf) [[code]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lo_CLCC_Contrastive_Learning_for_Color_Constancy_CVPR_2021_paper.pdf)
